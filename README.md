@@ -2,7 +2,7 @@
 
 Bangalore home price prediction website https://real-estate-price-prediction12.herokuapp.com/
 
-Fist we will build a mode by sklearn and linear regression using banglore home price dataset that has been taken form kaggle website. 
+Fist we will build a model by sklearn and linear regression using banglore home price dataset that has been taken form kaggle website. 
 
 Now we will write a python flask server which is going to provide the location values and has been hosted on heroku.
 https://real-estate-locations.herokuapp.com/get_location
